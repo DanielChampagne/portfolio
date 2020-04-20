@@ -148,3 +148,8 @@ pre[class*="language-"] {
 pre[class*="language-"] {
   border-radius: 0;
 }
+
+.contact {
+	height: 50px;
+	padding-inline-start: 10px;
+}
